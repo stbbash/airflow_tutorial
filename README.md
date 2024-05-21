@@ -36,7 +36,7 @@ Before you start, ensure you have the following installed:
 
 1. **Clone the repository:**
    
-   git clone https://github.com/yourusername/airflow_tutorial.git
+   git clone https://github.com/stbbash/airflow_tutorial.git
    cd airflow_tutorial
    
 
